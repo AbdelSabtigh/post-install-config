@@ -13,17 +13,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10/11</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Set up End Users
+- Set up Departments
+- Create new tickets
 - Item 4
 - Item 5
 
-<h2>Configuration Steps</h2>
+<h2>Creating Roles, Departments, and osTickets</h2>
 
 <p>
 <img width="2360" height="972" alt="Screenshot 2026-09-24 153013" src="https://github.com/user-attachments/assets/84b11620-1219-4ac1-a6de-3890984d351e" />

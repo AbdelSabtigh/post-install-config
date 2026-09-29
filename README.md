@@ -19,18 +19,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Set up End Users
 - Set up Departments
+- Edit settings
+- Give or remove permissions
 - Create new tickets
-- Item 4
-- Item 5
 
-<h2>Creating Roles, Departments, and osTickets</h2>
+<h2>Creating Roles, Departments, and Opening Tickets</h2>
 
 <p>
 <img width="2360" height="972" alt="Screenshot 2026-09-24 153013" src="https://github.com/user-attachments/assets/84b11620-1219-4ac1-a6de-3890984d351e" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating new roles within the Environment, this one being the “Supreme Admin”, and giving them the proper permissions for their specific role.
 </p>
 <br />
 
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Adding a New Department. Key things to edit are SLA (Service Level Agreement), Schedule (What time window to access/assess Help Desk Tickets, example: 24/5 or 24/7), and whether it is Public or Private.
 </p>
 <br />
 
@@ -48,6 +48,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Opening a new ticket. Example user is “Karen”. Key things to look for is Help Topic (example: Hardware, Networks, Cybersecurity, etc.) Issue summary, then the comment section below it to explain further what the issue is that they are experiencing in more detail.
 </p>
 <br />
